@@ -1,0 +1,31 @@
+_repo: Au-Sahara-b-Illustre-d-apres-des-photographies-de-l-auteur_70754
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Roux, Hugues
+    alias: Roux, Hugues le
+    birthdate: 1860
+    deathdate: 1925
+    gutenberg_agent_id: '40403'
+    url: http://www.gutenberg.org/2009/agents/40403
+    wikipedia: http://fr.wikipedia.org/wiki/Hugues_Le_Roux
+description: ''
+gutenberg_issued: '2023-05-13'
+identifiers:
+  gutenberg: '70754'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5789420t
+pgterms:marc905: 20220106112518leroux
+pgterms:marc906: '1891'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bFlammarion, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Au Sahara : $b Illustré d''après des photographies de l''auteur'
+url: http://www.gutenberg.org/ebooks/70754
